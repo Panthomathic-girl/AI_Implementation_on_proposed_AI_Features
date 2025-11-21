@@ -1,0 +1,24 @@
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
+pydantic
+python-multipart
+httpx
+
+# For IDCP
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+apscheduler
+
+# For OPF
+torch
+pandas
+numpy
+scikit-learn
+lightgbm
